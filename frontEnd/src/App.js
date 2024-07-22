@@ -136,5 +136,3 @@ function Stats({ items }) {
     </footer>
   );
 }
-
-//  <h1>🏝️ Far Away 🧳 🚀 ✈️ 💼 😍 ❌
